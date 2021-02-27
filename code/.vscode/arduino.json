@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "SinzianaPanel2021\\SinzianaPanel2021.ino",
+    "port": "COM3"
+}
